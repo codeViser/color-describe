@@ -8,4 +8,4 @@ played:
 
 This work tries to build a novel model that can text-describe the colors based on context.
 
-The ideas developed here are based on Monroe et. al. (2016 & 2017) & Prof. Chris Potts guidance.
+The ideas developed here are based on Monroe et. al. (2016 & 2017) & Prof. Chris Potts' guidance.
